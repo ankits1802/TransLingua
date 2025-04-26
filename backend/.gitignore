@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# PyTorch model files
+*.pth
+*.pt
+
+# Firebase credentials (highly sensitive)
+serviceAccountKey.json
+
+# Environment variables
+.env
+
+# VSCode/IDE specific files
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
